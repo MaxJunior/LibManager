@@ -1,0 +1,15 @@
+C:\Users\ntido\OneDrive\Documentos\Projects\LibManager\LibManager\LibManager\bin\Debug\net8.0\LibManager.exe
+C:\Users\ntido\OneDrive\Documentos\Projects\LibManager\LibManager\LibManager\bin\Debug\net8.0\LibManager.deps.json
+C:\Users\ntido\OneDrive\Documentos\Projects\LibManager\LibManager\LibManager\bin\Debug\net8.0\LibManager.runtimeconfig.json
+C:\Users\ntido\OneDrive\Documentos\Projects\LibManager\LibManager\LibManager\bin\Debug\net8.0\LibManager.dll
+C:\Users\ntido\OneDrive\Documentos\Projects\LibManager\LibManager\LibManager\bin\Debug\net8.0\LibManager.pdb
+C:\Users\ntido\OneDrive\Documentos\Projects\LibManager\LibManager\LibManager\obj\Debug\net8.0\LibManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntido\OneDrive\Documentos\Projects\LibManager\LibManager\LibManager\obj\Debug\net8.0\LibManager.AssemblyInfoInputs.cache
+C:\Users\ntido\OneDrive\Documentos\Projects\LibManager\LibManager\LibManager\obj\Debug\net8.0\LibManager.AssemblyInfo.cs
+C:\Users\ntido\OneDrive\Documentos\Projects\LibManager\LibManager\LibManager\obj\Debug\net8.0\LibManager.csproj.CoreCompileInputs.cache
+C:\Users\ntido\OneDrive\Documentos\Projects\LibManager\LibManager\LibManager\obj\Debug\net8.0\LibManager.sourcelink.json
+C:\Users\ntido\OneDrive\Documentos\Projects\LibManager\LibManager\LibManager\obj\Debug\net8.0\LibManager.dll
+C:\Users\ntido\OneDrive\Documentos\Projects\LibManager\LibManager\LibManager\obj\Debug\net8.0\refint\LibManager.dll
+C:\Users\ntido\OneDrive\Documentos\Projects\LibManager\LibManager\LibManager\obj\Debug\net8.0\LibManager.pdb
+C:\Users\ntido\OneDrive\Documentos\Projects\LibManager\LibManager\LibManager\obj\Debug\net8.0\LibManager.genruntimeconfig.cache
+C:\Users\ntido\OneDrive\Documentos\Projects\LibManager\LibManager\LibManager\obj\Debug\net8.0\ref\LibManager.dll
